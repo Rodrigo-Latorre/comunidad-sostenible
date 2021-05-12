@@ -1,0 +1,32 @@
+#menu ul li {
+    display: inline-block;
+}
+#logo {
+    width: 40%;
+}
+.brote {
+    height: 400px;
+    background-image: url('../img/semilla.jpg');
+    background-size: 100%;
+}
+.metodo {
+    height: 400px;
+    background-image: url('../img/metodo.JPG');
+    background-size: 100%;
+}
+.metodologia {
+    height: 400px;
+    background-image: url('../img/fondo.jpg');
+    background-repeat: no-repeat;
+    font-family: OpenSans-Bold;
+}
+.proyecto1 {
+    height: 400px;
+    background-image: url('../img/fotos/img-0352.JPG');
+    background-size: 100%;
+}
+.proyecto2 {
+    height: 400px;
+    background-image: url('../img/fotos/img-9246.jpg');
+    background-size: 100%;
+}
